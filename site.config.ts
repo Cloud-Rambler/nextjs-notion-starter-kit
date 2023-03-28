@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Personal-Home-764fa4c3a4294a2f899605a72079e458',
+  rootNotionPageId: 'a88f9c8ddd534e52a719f291b8d61f88',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Cloud Rambler的博客',
-  domain: 'https://cloud-rambler.notion.site/cloud-rambler/Personal-Home-764fa4c3a4294a2f899605a72079e458',
+  domain: 'https://cloud-rambler.notion.site/Next-js-Notion-Starter-Kit-Template-a88f9c8ddd534e52a719f291b8d61f88',
   author: 'Cloud Rambler',
 
   // open graph metadata (optional)
